@@ -1,0 +1,14 @@
+cmake-build-debug
+*.bmp
+*.png
+barrel.xpm
+colorstone.xpm
+greystone.xpm
+rusya.xpm
+*.dylib
+.idea
+CMakeLists.txt
+cub3D
+mlx.c
+.DS_Store
+mlx/libmlx.dylib
